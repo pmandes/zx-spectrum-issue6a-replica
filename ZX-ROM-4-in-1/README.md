@@ -7,5 +7,5 @@
 
 <p align="center">
 <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/ZX-ROM-4-in-1/bom/ibom.html
-"><img src="https://raw.githubusercontent.com/pmandes/C64-RF-Modulator/main/images/bom.png" height="225"></a>
+"><img src="https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/ZX-ROM-4-in-1/img/bom.png" height="225"></a>
 </p>
