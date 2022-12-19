@@ -2,7 +2,9 @@
 ## 27C512 EPROM adapter for ZX Spectrum 48K
 
 <p align="center">
-![](img/zxrom4in1.png)
+
+  ![](img/zxrom4in1.png)
+
 </p>
 
 ### Bill of materials:
