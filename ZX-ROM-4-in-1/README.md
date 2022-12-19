@@ -1,4 +1,11 @@
-# ZX Spectrum 48k Issue 6A board replica
+# ZXROM 4-in-1
+## 27C512 EPROM adapter for ZX Spectrum 48K
 
-## BOM:
+![](img/zxrom4in1.png)
 
+### Bill of materials:
+
+<p align="center">
+<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/ZX-ROM-4-in-1/bom/ibom.html
+"><img src="https://raw.githubusercontent.com/pmandes/C64-RF-Modulator/main/images/bom.png" height="225"></a>
+</p>
