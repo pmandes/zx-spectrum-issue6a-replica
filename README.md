@@ -5,7 +5,8 @@
 
 These are PCB replicas of the motherboard of a ZX Spectrum 48k 8-bit computer. They were created on the basis of the last version of the board - "ISSUE 6A" - which was mounted in both Spectrum 48k and Spectrum+. It differs from previous versions mainly by integrating the logic and memory multiplexers in one ZX8401 chip, as well as an improved (especially in comparison with the first versions) the power supply circuit.
 
-The purpose of the project
+## The purpose of the project
+
 I created them as a tribute to this wonderful little computer for the 40th anniversary of its creation, which for many of us started the adventure in the world of IT technology. Thanks to this replica, you can repair your old ZX Spectrum in which the connector contacts have worn off, tracks and pads have torn off after numerous repairs or have simply been destroyed by rust. After transplanting components to a new board, your Spectrum will not only gain a new life, but also a great look.
 
 The ISSUE 6A board requires the following components:
