@@ -1,9 +1,8 @@
 # ZX Spectrum 48k Issue 6A board replica
 
-
-
-
 These are PCB replicas of the motherboard of a ZX Spectrum 48k 8-bit computer. They were created on the basis of the last version of the board - "ISSUE 6A" - which was mounted in both Spectrum 48k and Spectrum+. It differs from previous versions mainly by integrating the logic and memory multiplexers in one ZX8401 chip, as well as an improved (especially in comparison with the first versions) the power supply circuit.
+
+![ISSUE 6A motherboard](https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/images/zx48-1.1.png)
 
 ## The purpose of the project
 
@@ -14,7 +13,7 @@ I created them as a tribute to this wonderful little computer for the 40th anniv
 - Zilog Z80 processor
 - ZX8401 / PCF1306P chip - or its cheap direct replacement built on SMD 74LS chips
 - ULA in any version (originally on this board was Ferranti 6C001E-7) or a perfect, modern replacement vLA82
-- original ZX Spectrum ROM or EPROM 27C256/27C512 with programmed BASIC binary (requires a slight modification or adapter, e.g. ZXROM 4-in-1)
+- original ZX Spectrum ROM or EPROM 27C256/27C512 with programmed BASIC binary (requires a slight modification or adapter, e.g. [ZXROM 4-in-1](https://github.com/pmandes/zx-spectrum-issue6a-replica/tree/main/ZX-ROM-4-in-1))
 - lower memory chips type 4116 (e.g. TMS4116-15NL, STC 4116-2N) or a modern SRAM replacement board
 - upper memory chips type 4532 or compatible (e.g. TMS 4532-20NL4, OKI M3764-20RS) or modern SRAM module
 - LM1889 video modulation chip
@@ -23,6 +22,10 @@ I created them as a tribute to this wonderful little computer for the 40th anniv
 ## BOM:
 
 https://docs.google.com/spreadsheets/d/1GlukvK-rJ6DSs6qOmtWpRyai1MQ1hy25GcS9ePSdg4E/edit?usp=sharing
+
+## Motherboard layout:
+
+https://github.com/pmandes/zx-spectrum-issue6a-replica/blob/main/Issue-6A-layout.pdf
 
 ## ROMs:
 
