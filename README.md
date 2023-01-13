@@ -34,6 +34,10 @@ https://docs.google.com/spreadsheets/d/1GlukvK-rJ6DSs6qOmtWpRyai1MQ1hy25GcS9ePSd
 https://github.com/pmandes/zx-spectrum-issue6a-replica/blob/main/Issue-6A-layout.pdf
 ![Motherboard layout](https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/images/layout.png)
 
+## PCBs:
+
+https://www.tindie.com/products/devzine_pl/zx-spectrum-48k-issue-6a-motherboard-replica-pcbs/
+
 ## ROMs:
 
 - https://mdfs.net/Software/Spectrum/ROMImages/
