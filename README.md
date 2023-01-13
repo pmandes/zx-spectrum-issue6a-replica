@@ -23,6 +23,11 @@ I created it as a tribute to this wonderful little computer for the 40th anniver
 
 https://docs.google.com/spreadsheets/d/1GlukvK-rJ6DSs6qOmtWpRyai1MQ1hy25GcS9ePSdg4E/edit?usp=sharing
 
+- For a standard Ferranti ULA - do not populate: C90, C100, C102, C103, leave LK1, LK2, LK3, LK4 - opened.
+- For TMS chips on upper memory: TI - close, 3 or 4 - depends on the marking on the chip: i.e. TMS4532-20NL**4**
+- For OKI chip on upper memory: OKI - close, L or H - depends on the marking on the chip: i.e. OKI3732**L**-20RS, for OKI3764 - you can choose which 'half' of its 64kbit you want to use
+- ROM settings: N - close for NEC chips, H - for HITACHI chips
+
 ## Motherboard layout:
 
 https://github.com/pmandes/zx-spectrum-issue6a-replica/blob/main/Issue-6A-layout.pdf
