@@ -37,6 +37,7 @@ https://github.com/pmandes/zx-spectrum-issue6a-replica/blob/main/Issue-6A-layout
 ## PCBs:
 
 Here you can order ready-made, unpopulated PCB:
+
 https://www.tindie.com/products/devzine_pl/zx-spectrum-48k-issue-6a-motherboard-replica-pcbs/
 
 ## ROMs:
