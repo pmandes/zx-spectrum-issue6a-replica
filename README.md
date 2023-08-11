@@ -29,11 +29,12 @@ https://docs.google.com/spreadsheets/d/1GlukvK-rJ6DSs6qOmtWpRyai1MQ1hy25GcS9ePSd
 - For OKI chip on upper memory: OKI - close, L or H - depends on the marking on the chip: i.e. OKI3732**L**-20RS, for OKI3764 - you can choose which 'half' of its 64kbit you want to use
 - ROM settings: N - close for NEC chips, H - for HITACHI chips, for the EPROM adapter - it does not matter
 
+**Interactive BOM:**
+
 <p align="center">
 <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/bom/ibom.html
-"><img src="https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/images/bom.png" height="225"></a>
+"><img src="https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/images/bom.png" height="400"></a>
 </p>
-
 
 **Notice:**
 
