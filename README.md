@@ -29,6 +29,12 @@ https://docs.google.com/spreadsheets/d/1GlukvK-rJ6DSs6qOmtWpRyai1MQ1hy25GcS9ePSd
 - For OKI chip on upper memory: OKI - close, L or H - depends on the marking on the chip: i.e. OKI3732**L**-20RS, for OKI3764 - you can choose which 'half' of its 64kbit you want to use
 - ROM settings: N - close for NEC chips, H - for HITACHI chips, for the EPROM adapter - it does not matter
 
+<p align="center">
+<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/bom/ibom.html
+"><img src="https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/img/bom.png" height="225"></a>
+</p>
+
+
 **Notice:**
 
 I received reports that the board version 1.1 (Dec 2022) has too small holes for the original **BA157** diodes (D15 and D17) - I used **BA159** diodes manufactured by **MIC** in the DO-41 package. They have 0.55mm / 0.0215inch thick legs - they fit and work perfectly.
