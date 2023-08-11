@@ -2,7 +2,7 @@
 
 This is PCB replica of the motherboard of a ZX Spectrum 48k 8-bit computer. It was created on the basis of the last version of the board - "ISSUE 6A" - which was mounted in both Spectrum 48k and Spectrum+. It differs from previous versions mainly by integrating the logic and memory multiplexers in one ZX8401 chip, as well as an improved (especially in comparison with the first versions) the power supply circuit.
 
-![ISSUE 6A motherboard](https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/images/zx48-1.1.png)
+![ISSUE 6A motherboard](https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/images/zx48-1.2.png)
 
 ## The purpose of the project
 
