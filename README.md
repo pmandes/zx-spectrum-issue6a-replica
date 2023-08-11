@@ -31,7 +31,7 @@ https://docs.google.com/spreadsheets/d/1GlukvK-rJ6DSs6qOmtWpRyai1MQ1hy25GcS9ePSd
 
 <p align="center">
 <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/bom/ibom.html
-"><img src="https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/img/bom.png" height="225"></a>
+"><img src="https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/images/bom.png" height="225"></a>
 </p>
 
 
