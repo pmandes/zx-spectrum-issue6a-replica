@@ -35,21 +35,16 @@ https://docs.google.com/spreadsheets/d/1GlukvK-rJ6DSs6qOmtWpRyai1MQ1hy25GcS9ePSd
 <p align="center"><img src="https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/images/r-c-jumpers.png" height="200"></p>
 
 **Interactive BOM:**
-
-<p align="center">
-<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/bom/ibom.html
-"><img src="https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/images/bom.png" height="400"></a>
-</p>
+<p align="center"><a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/bom/ibom.html
+"><img src="https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/images/bom.png" height="400"></a></p>
 
 **Notice:**
 
 I received reports that the board version 1.1 (Dec 2022) has too small holes for the original **BA157** diodes (D15 and D17) - I used **BA159** diodes manufactured by **MIC** in the DO-41 package. They have 0.55mm / 0.0215inch thick legs - they fit and work perfectly.
 
 ## Motherboard layout:
-
 https://github.com/pmandes/zx-spectrum-issue6a-replica/blob/main/Issue-6A-layout.pdf
 ![Motherboard layout](https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/images/layout.png)
-
 ## Changelog:
 
 **1.2**
