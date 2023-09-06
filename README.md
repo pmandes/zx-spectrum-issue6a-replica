@@ -41,6 +41,10 @@ https://docs.google.com/spreadsheets/d/1GlukvK-rJ6DSs6qOmtWpRyai1MQ1hy25GcS9ePSd
 
 I received reports that the board version 1.1 (Dec 2022) has too small holes for the original **BA157** diodes (D15 and D17) - I used **BA159** diodes manufactured by **MIC** in the DO-41 package. They have 0.55mm / 0.0215inch thick legs - they fit and work perfectly.
 
+**Correct jumper configuration near IC28:**
+
+<p align="center"><img src="https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/images/r-c-jumpers.png"></p>
+
 ## Motherboard layout:
 
 https://github.com/pmandes/zx-spectrum-issue6a-replica/blob/main/Issue-6A-layout.pdf
