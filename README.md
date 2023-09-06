@@ -50,6 +50,18 @@ I received reports that the board version 1.1 (Dec 2022) has too small holes for
 https://github.com/pmandes/zx-spectrum-issue6a-replica/blob/main/Issue-6A-layout.pdf
 ![Motherboard layout](https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/images/layout.png)
 
+## Changelog:
+
+**1.2**
+- enlargement of all solder holes up to 0.8mm, holes for D15/D17 diodes up to 1mm
+
+**1.1**
+- improving the position of the mounting holes
+- correction of all mistakes detected on the prototype
+
+**1.0**
+- prototype
+
 ## PCBs:
 
 Here you can order ready-made, unpopulated PCBs:
