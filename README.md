@@ -43,7 +43,7 @@ I received reports that the board version 1.1 (Dec 2022) has too small holes for
 
 **Correct jumper configuration near IC28:**
 
-<p align="center"><img src="https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/images/r-c-jumpers.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/images/r-c-jumpers.png" height="200"></p>
 
 ## Motherboard layout:
 
