@@ -79,3 +79,10 @@ https://www.tindie.com/products/devzine_pl/zx-spectrum-48k-issue-6a-motherboard-
 ## Useful resources:
 - Schematics: https://spectrumforeveryone.com/technical/zx-spectrum-pcb-schematics-layout/
 - Service manual: https://spectrumforeveryone.com/wp-content/uploads/2017/08/ZX-Spectrum-Service-Manual.pdf
+ 
+---
+
+All material published here is under a [Creative Commons 4.0 license](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+<img src="https://raw.githubusercontent.com/pmandes/zx-spectrum-issue6a-replica/main/images/Cc_by-nc-nd_icon.png" width="150">
+
