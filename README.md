@@ -74,8 +74,7 @@ https://www.tindie.com/products/devzine_pl/zx-spectrum-48k-issue-6a-motherboard-
 - PCF1306P / ZX8401: https://trastero.speccy.org/cosas/JL/pcf1306p/PCF1306P.html
 - PCF1306P SMD: https://www.va-de-retro.com/foros/viewtopic.php?p=182085#p182085
 - S-Video Mod: https://github.com/redhawk668/ZX-Spectrum-S-Video
-- Composite Mod: https://www.projectavr.com/esp-01-esp-03-flash-prototyping-board/
-
+- Composite Mod: https://github.com/lostretrotapes/ProjectSpeccy-Sinclair-Spectrum-Composite-Mod-PCB
 ## Useful resources:
 - Schematics: https://spectrumforeveryone.com/technical/zx-spectrum-pcb-schematics-layout/
 - Service manual: https://spectrumforeveryone.com/wp-content/uploads/2017/08/ZX-Spectrum-Service-Manual.pdf
